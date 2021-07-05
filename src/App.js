@@ -1,6 +1,7 @@
 import './App.css';
 import Card from './card';
 import Cdata from './Cdata';
+import Footer from './Footer';
 
 function App() {
   return (
