@@ -77,6 +77,19 @@
   color: #fdfbf7;
 }
 
+.footer{
+  padding: 1% 0;
+  width: 100%;
+  background-color: #282c34;
+  box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.267);
+  color: rgb(255, 255, 255);
+  font-weight: 400;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 @media (max-width: 426px){
   .card{
     margin: 5% auto;
