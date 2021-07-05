@@ -62,20 +62,7 @@
   padding: 20% 50%;
   border-radius: 50px;
   transition: all ease .5s;
-
-}
-.btn a:hover{
   cursor: pointer;
-  background-color: #6e6e6e;
-}
-.btn a:link{
-  color: #fff;
-}
-.btn a:active{
-  color: cyan;
-}
-.btn a:visited{
-  color: #fdfbf7;
 }
 
 .footer{
