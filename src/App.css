@@ -52,6 +52,7 @@
   background: none;
   position: relative;
   left: -15px;
+  width: fit-content;
 }
 
 .btn a{
