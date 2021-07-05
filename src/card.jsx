@@ -9,7 +9,7 @@ function Card(props) {
             <div className="card-title">
               <h2>{props.ctitle}</h2>
                 </div>
-         <button className="btn" ><a href={props.refer} target="_blank" >Watch</a></button>
+         <button className="btn" ><a href={props.refer} target="_blank" rel="noreferrer" >Watch</a></button>
         </div>
     </div>
     </>
