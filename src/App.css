@@ -27,7 +27,6 @@
   margin: 5% 4%;
   color: #fff;
   background-color: #182333;
-  transition: all ease 0.5s;
 }
 .card:hover{
   transform: scale(1.01);
