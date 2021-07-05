@@ -14,6 +14,7 @@ function App() {
       {Cdata.map((val) => {
               return (
                   <Card
+                key = {val.key}
                 imgsrc = {val.imgsrc}
                 ctitle = {val.ctitle}
                 alternate = {val.alternate}
